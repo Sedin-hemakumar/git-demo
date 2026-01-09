@@ -6,4 +6,4 @@
 
 # from feature branch
 
-feature branch 2nd commit
+feature 2nd commit
